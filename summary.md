@@ -35,7 +35,7 @@
 
 **`Hacking Ético en AWS`**
 
-Despliegue de un laboratorio de Hacking Ético utilizando instancias EC2 y VPC para el trabajo en equipo, con máquinas de prueba desde el repositorio de [vulnhub](https://www.vulnhub.com/), asimismo se evalúa la mitigación de las vulnerabilidades encontradas y se propone una infraestructura securizada empleando herramientas nativas del proveedor cloud. [Ver más ...](https://portfolio-pmgr.onrender.com/?file=money-chronos.md)
+Despliegue de un laboratorio de Hacking Ético utilizando instancias EC2 y VPC para el trabajo en equipo, con máquinas de prueba desde el repositorio de Vulnhub, asimismo se evalúa la mitigación de las vulnerabilidades encontradas y se propone una infraestructura securizada empleando herramientas nativas del proveedor cloud. [Ver más ...](https://portfolio-pmgr.onrender.com/?file=money-chronos.md)
 
 *Stack-tecnológico: Kali Linux, Bash, AWS EC2, Python, Perl, Node, AWS Network Firewall*
 
