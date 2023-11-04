@@ -2,7 +2,7 @@ import streamlit as st
 from pathlib import Path
 
 # Design
-st.set_page_config(page_title="EHQ_Portfolio",
+st.set_page_config(page_title="Edgard Huanca Quispe",
                    page_icon="bar_chart:",
                    layout="wide")
 

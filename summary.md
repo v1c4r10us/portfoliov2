@@ -1,5 +1,5 @@
 <h1 align="center">Edgard Huanca Quispe</h1>
-<p align="center"><img src="https://drive.google.com/uc?export=view&id=1LnvYIC1havHDf1Z74e7sBiR1LJ1gz4bv" width="300"></img></p>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1LnvYIC1havHDf1Z74e7sBiR1LJ1gz4bv" width="250"></img></p>
 
 ## Contact
 
@@ -33,26 +33,32 @@
 
 ## Projects
 
+**`Hacking Ético en AWS`**
+
+Despliegue de un laboratorio de Hacking Ético utilizando instancias EC2 y VPC para el trabajo en equipo, con máquinas de prueba desde el repositorio de [vulnhub](https://www.vulnhub.com/), asimismo se evalúa la mitigación de las vulnerabilidades encontradas y se propone una infraestructura securizada empleando herramientas nativas del proveedor cloud. [Ver más ...](https://portfolio-pmgr.onrender.com/?file=money-chronos.md)
+
+*Stack-tecnológico: Kali Linux, Bash, AWS EC2, Python, Perl, Node, AWS Network Firewall*
+
 **`Webscraping para extracción masiva de datos`**
 
-Proyecto enfocado a la extracción de datos de paquetes turísticos mediante scraping html y DOM. La información obtenida servirá como base de entrenamiento de un chatbot de recomendación. [Ver más ...](https://edgard-huanca.streamlit.app/?file=webscraping-gyg.md)
+Proyecto enfocado a la extracción de datos de paquetes turísticos mediante scraping html y DOM. La información obtenida servirá como base de entrenamiento de un chatbot de recomendación. [Ver más ...](https://portfolio-pmgr.onrender.com/?file=webscraping-gyg.md)
 
 *Stack-tecnológico: Python, Selenium, bs4, GCP (cloud-shell), bash-script*
 
 **`Bot de alertas sísmicas (SismoBot)`** 
 
-Despliegue de un sistema de alertas sismicas a través de Telegram en tiempo real, en base a la información proporcionada por los centros sismólogicos de Estados Unidos, Japón y Chile. [Ver más ...](https://edgard-huanca.streamlit.app/?file=sismic-alert.md)
+Despliegue de un sistema de alertas sismicas a través de Telegram en tiempo real, en base a la información proporcionada por los centros sismólogicos de Estados Unidos, Japón y Chile. [Ver más ...](https://portfolio-pmgr.onrender.com/?file=sismic-alert.md)
 
 *Stack-tecnológico: Python, GCP, Docker, Apache NiFi, MongoDB*
 
 **`DataViz & story-telling (VirginMobile)`**
 
-Elaboración de un completo data-story-telling del sector de telecomunicaciones con enfoque principal en 'acceso a internet' para la empresa VirginMobile. Los datos empleados provienen del repositorio de ENACOM del gobierno argentino. [Ver más ...](https://edgard-huanca.streamlit.app/?file=dataviz-pi.md)
+Elaboración de un completo data-story-telling del sector de telecomunicaciones con enfoque principal en 'acceso a internet' para la empresa VirginMobile. Los datos empleados provienen del repositorio de ENACOM del gobierno argentino. [Ver más ...](https://portfolio-pmgr.onrender.com/?file=dataviz-pi.md)
 
 *Stack-tecnológico: Python, PowerBI*
 
 **`DataEngineering of streaming platforms (StreamAPI)`**
 
-Proyecto con enfoque MLOps, basado en el tratamiento de los datos de las principales plataformas de streaming: Amazon prime, Netflix, Disney+ y hulu; en donde se efectúa la ingesta y el tratamiento de alrededor de 30M de registros, asimismo se realiza la implementación de un modelo de recomendación de películas en función al rating de preferencia y el género. [Ver más ...](https://edgard-huanca.streamlit.app/?file=stream-api.md)
+Proyecto con enfoque MLOps, basado en el tratamiento de los datos de las principales plataformas de streaming: Amazon prime, Netflix, Disney+ y hulu; en donde se efectúa la ingesta y el tratamiento de alrededor de 30M de registros, asimismo se realiza la implementación de un modelo de recomendación de películas en función al rating de preferencia y el género. [Ver más ...](https://portfolio-pmgr.onrender.com/?file=stream-api.md)
 
 *Stack-tecnológico: Python, FastAPI, SciKit-Learn*
