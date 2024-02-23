@@ -1,5 +1,5 @@
 <h1 align="center">Edgard Huanca Quispe</h1>
-<p align="center"><img src="https://drive.google.com/uc?export=view&id=1LnvYIC1havHDf1Z74e7sBiR1LJ1gz4bv" width="250"></img></p>
+<p align="center"><img src="https://lh3.google.com/u/0/d/1LnvYIC1havHDf1Z74e7sBiR1LJ1gz4bv" width="250"></img></p>
 
 ## Contact
 
