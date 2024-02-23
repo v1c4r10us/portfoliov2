@@ -32,7 +32,7 @@
 
 
 # Arquitectura
-<p align="center"><img src="https://drive.google.com/uc?export=view&id=1_TYdxfyH4aocCtHfG-pkNuXNKSxq4Upi"></img></p>
+<p align="center"><img src="https://lh3.googleusercontent.com/d/1_TYdxfyH4aocCtHfG-pkNuXNKSxq4Upi"></img></p>
 
 # Esquema de almacenamiento en MongoDB Atlas
 ```json
@@ -100,7 +100,7 @@ Quedando así, los clusters de 1 como el mas fuerte, 2 como el mas débil y 3 co
 
 DBSCAN
 
-<p align="center"><img src="https://drive.google.com/uc?export=view&id=1e0xPPKtkXwgGv5uEtWXK8C_so7pnCPjX"></img></p>
+<p align="center"><img src="https://lh3.googleusercontent.com/d/1e0xPPKtkXwgGv5uEtWXK8C_so7pnCPjX"></img></p>
 
 Este modelo arrojó una cantidad óptima de 38 clusters, por lo que se decidió descartarlo debido a su gran cantidad y también lo poco unforme que estaban distribuidos los datos en los clusters.
 

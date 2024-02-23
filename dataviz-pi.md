@@ -40,9 +40,9 @@ Se ha establecido los siguientes indicadores clave para el estudio:
 
 ## Visualizaciones
 
-<p align="center"><img src="https://drive.google.com/uc?export=view&id=1qpjbl92_pJS-H47bPlicCKoYikVAW8_M"></img></p>
+<p align="center"><img src="https://lh3.googleusercontent.com/d/1qpjbl92_pJS-H47bPlicCKoYikVAW8_M"></img></p>
 
-<p align="center"><img src="https://drive.google.com/uc?export=view&id=1HH7fi20P4oAPaQ91nGXtiaE3gq9tiMoD"></img></p>
+<p align="center"><img src="https://lh3.googleusercontent.com/d/1HH7fi20P4oAPaQ91nGXtiaE3gq9tiMoD"></img></p>
 
 
 

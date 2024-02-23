@@ -34,7 +34,7 @@ Disponemos de los datos de peliculas y series de las 04 principales plataformas 
 
 Los datos de películas de las 04 plataformas se procesan directamente en el lado del servidor; sin embargo para el caso de los ficheros rating, que en total suman alrededor de 11M de registros, procesarlos en su totalidad en el lado del servidor demandaría consumo excesivo de **memoria ram** (más de lo que se proporciona de forma gratuita). Para solucionar este inconveniente y mediante el **EDA**, se sintetiza en 02 nuevos ficheros: *rating_global.csv* (para el request en GET_SCORE_COUNT) y *recsys.csv* (para el request en GET_RECOMMENDATION). El siguiente diagrama representa la arquitectura hasta su despliegue en <a href=https://railway.app/>Railway</a>:
 
-<p align="center"><img src="https://drive.google.com/uc?export=view&id=1m4BaoEa1_PW10Ukc_74VXKaqOcAuc--O"></img></p>
+<p align="center"><img src="https://lh3.googleusercontent.com/d/1m4BaoEa1_PW10Ukc_74VXKaqOcAuc--O"></img></p>
 
 ## EDA (Exploratory Data Analysis)
 
